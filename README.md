@@ -11,5 +11,10 @@ https://gist.github.com/166f2021dc6c670163752e5d41fed312
 
 </details>
 
+<details>
+  <summary>Module 2 - Data Wrangling</summary>
+
+
+</details>
 
 

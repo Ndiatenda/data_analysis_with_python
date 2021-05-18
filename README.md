@@ -7,7 +7,7 @@
   <summary>Module 1 - Python Basics</summary>
 
 * Introduction to Data Analysis with Python: 
-https://gist.github.com/166f2021dc6c670163752e5d41fed312
+https://gist.github.com/c7e41784e4381fab6f1cafbd33724e3d
 
 </details>
 

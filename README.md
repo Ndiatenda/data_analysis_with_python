@@ -13,6 +13,10 @@ https://gist.github.com/c7e41784e4381fab6f1cafbd33724e3d
 
 <details>
   <summary>Module 2 - Data Wrangling</summary>
+  
+* Data Wrangling:
+https://gist.github.com/f233a74be24fe33c41292029500cdff7
+
 
 
 </details>

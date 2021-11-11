@@ -2,7 +2,7 @@
 
 ***Data Analysis with Python (CognitiveClass - DA0101EN) is an online course offered by IBM. This course features; data wrangling, exploratory data analysis, model development, and working with data in Python.***
 
-### The following are links to notebooks showcasing my hands-on labs in Python:
+### The following are links to notebooks showcasing the hands-on labs I completed in Python:
 <details>
   <summary>Module 1 - Python Basics</summary>
 

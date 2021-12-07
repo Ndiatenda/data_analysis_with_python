@@ -25,3 +25,7 @@ https://gist.github.com/f233a74be24fe33c41292029500cdff7
   * Data Analysis with Python:
   https://gist.github.com/e4b7e3bf785a71ecc5eb1d7dd40b97eb  
 </details>
+
+<details>
+  <summary>Module 4 - Model Development
+</details>

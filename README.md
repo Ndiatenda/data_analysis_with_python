@@ -15,7 +15,7 @@ https://gist.github.com/c7e41784e4381fab6f1cafbd33724e3d
   <summary>Module 2 - Data Wrangling</summary>
   
 * Data Preprocessing with Python:
-https://gist.github.com/f233a74be24fe33c41292029500cdff7
+https://gist.github.com/Ndiatenda/5fc134e1e77babffae21bba13165ecb9
 
 </details>
 

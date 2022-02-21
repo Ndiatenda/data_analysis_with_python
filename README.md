@@ -27,6 +27,12 @@ https://gist.github.com/Ndiatenda/5fc134e1e77babffae21bba13165ecb9
 </details>
 
 <details>
-  <summary>Module 4 - Model Development
+  <summary>Module 4 - Model Development</summary>
+  
     * Learning Outcomes:
+| Tables        |
+| ------------- |
+| col 3 is      | 
+| col 2 is      | 
+| zebra stripes |
 </details>

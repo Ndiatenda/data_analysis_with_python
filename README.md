@@ -28,4 +28,5 @@ https://gist.github.com/Ndiatenda/5fc134e1e77babffae21bba13165ecb9
 
 <details>
   <summary>Module 4 - Model Development
+    * Learning Outcomes:
 </details>

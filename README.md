@@ -31,9 +31,9 @@ https://gist.github.com/Ndiatenda/5fc134e1e77babffae21bba13165ecb9
   
   
           |Module Objectives|
-          | ------------- |
-          | col 3 is      | 
-          | col 2 is      | 
-          | zebra stripes |
+          | ----------------|
+          | col 3 is        | 
+          | col 2 is        | 
+          | zebra stripes   |
   
 </details>
